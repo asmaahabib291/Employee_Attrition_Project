@@ -1,10 +1,10 @@
 # Employee_Attrition_Project
-Milestone 1:
-1. **Data Collection : **
+## Milestone 1:
+### 1. Data Collection : 
 
 - Acquired an employee dataset **(IBM HR Analytics Employee Attrition & Performance)**
 
-**- Determined the key features :** 
+#### - Determined the key features :
 -  Monthly Income 
 - Age
 -  DistanceFromHome
@@ -16,14 +16,14 @@ Milestone 1:
 - MonthlyRate
 
 
-2. **Data Exploration : **
+### 2. Data Exploration : 
 
 - Performed exploratory data analysis **(EDA)** 
 
-3. **Preprocessing and Feature Engineering : ** 
+### 3. **Preprocessing and Feature Engineering : ** 
 
 - Examined for missing values **(No missing values)**
 - Dealt with outliers
 
 
-4. **Exploratory Data Analysis (EDA):**
+### 4. Exploratory Data Analysis (EDA):
