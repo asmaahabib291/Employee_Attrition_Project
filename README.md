@@ -11,8 +11,6 @@
 - StockOptionLevel
 - EnvironmentSatisfaction
 - YearsAtCompany
-- DailyRate
-- HourlyRate
 - MonthlyRate
 
 
