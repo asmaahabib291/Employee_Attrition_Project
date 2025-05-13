@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/279ead166873430aabaf83ba500ae853/artifacts
+end_time: 1747064749206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 279ead166873430aabaf83ba500ae853
+run_name: XGBhyperparameters_Model_Run
+run_uuid: 279ead166873430aabaf83ba500ae853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747064731870
+status: 3
+tags: []
+user_id: ahmed

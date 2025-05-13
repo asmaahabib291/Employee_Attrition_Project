@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e5530d8785b74f49ae90061f10c69f19/artifacts
+end_time: 1747064611158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5530d8785b74f49ae90061f10c69f19
+run_name: XGBoost_Model_Run
+run_uuid: e5530d8785b74f49ae90061f10c69f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747064577510
+status: 3
+tags: []
+user_id: ahmed

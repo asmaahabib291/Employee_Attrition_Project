@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3af69e3d2ee343379559d799a092b809/artifacts
+deleted_time: 1747026310283
+end_time: 1747009741539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3af69e3d2ee343379559d799a092b809
+run_name: AdaBoost_Model_Run
+run_uuid: 3af69e3d2ee343379559d799a092b809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747009741433
+status: 4
+tags: []
+user_id: ahmed

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f7a8dc6d56ba4533b9d2391b5f4d7559/artifacts
+end_time: 1747144307378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7a8dc6d56ba4533b9d2391b5f4d7559
+run_name: LogisticRegression_Model_Run
+run_uuid: f7a8dc6d56ba4533b9d2391b5f4d7559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747144272210
+status: 3
+tags: []
+user_id: ahmed
